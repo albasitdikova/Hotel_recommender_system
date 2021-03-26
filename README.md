@@ -1,7 +1,7 @@
 # Hotel recommender system
 
 ## Description:
-Get the best hotel recommndations for each client
+Get the best hotel recommendations for each client
 
 ## Data:
 TripAdvisor hotel reviews
