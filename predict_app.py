@@ -30,7 +30,7 @@ st.title("Hotel recommender")
 df_offering = pd.read_csv('/Users/albinasitdikova/Project_5/df_offering.csv')
 
 #dataframe "top 10 hotels for each user"
-df_top_n = pd.read_csv('/Users/albinasitdikova/Project_5/df_top_n_app.csv')  
+df_top_n = pd.read_csv('/Users/albinasitdikova/Project_5/df_top_n.csv')  
 
 #dataframe "top 10 similar hotel for each hotel"
 df_similar = pd.read_csv('/Users/albinasitdikova/Project_5/df_knn.csv')
