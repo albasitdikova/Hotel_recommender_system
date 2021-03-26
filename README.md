@@ -4,7 +4,8 @@
 Get the best hotel recommendations for each client
 
 ## Data:
-TripAdvisor hotel reviews
+TripAdvisor hotel reviews.
+
 Scraped data provided by:
 https://www.cs.cmu.edu/~jiweil/html/hotel-review.html
 
