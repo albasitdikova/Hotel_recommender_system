@@ -1,4 +1,4 @@
-# Hotel recommender system 
+# Hotel recommender system  
 
 ## Description:
 Get the best hotel recommendations for each client
